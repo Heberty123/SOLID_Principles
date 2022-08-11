@@ -34,8 +34,24 @@ this principle requires object of subclass to behave is same may than object of 
 
 
 
-## Interface Segregation Principle:
+## Interface Segregation Principle
 
 
   On some occasion, We wouldn’t like to extends all behaviours that won’t be used by subclass. So, it’s best for the class to implements especif interface rather than generic interface that contain useless method. For better example, when we create interface bird and all class as toucans, hawk, owl and penguin implements that class which contain function like eat(), sleep() and fly(), but penguin doens’t fly ! it break our application, like also the liskov principle. So, we should create interface bird with function only eat() and sleep(). So other interface will be bird_that_fly  and this interface contain function fly() and extends interface bird. Like this, penguin can implements interface bird and others birds can implements interface bird_that_fly. 
+  
+  
+  
+## Dependency Inversion Principle
+
+**high level modules should not depend on low level modules; both should depend on abstractions. Abstractions should not depend on details. Details should depend upon abstractions.**
+
+We wouldn’t like the our class to be coupled by instantianting other dependency into this class. So, we should inject dependecy into class by method construct, without instantiad in that class. But for to do it, we have to abstract between our high-level and low-level.
+
+High-level: is the class that need an tool (dependency) for doing anything 
+low-level: is (dependency) an tool that can be used by class.
+
+Interface: abstract our class and tools.
+
+Details of tools: especific tool can implements that interface for make your different details.
+Fire
 
