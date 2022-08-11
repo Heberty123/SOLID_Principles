@@ -3,9 +3,7 @@ Just learning SOLID principles
 
 Hi everyone, in this post, I’d like to show you the principles of SOLID with images that I made to allow you undestood may easily about such a principles in SOLID.
 
-<img alt="Conding" src="
-https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=
-                        ">
+<img alt="Conding" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/hello.gif">
 
 Here, we’ll use “class” as software entity to apply ours principles SOLID, but we also can use function, method or module.
 
@@ -22,7 +20,7 @@ different component that depend on the changed class.
 
 
 
-<img title="a title" alt="Alt text" align="center" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
+<img title="a title" alt="Alt text" align="center" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/SRP.png">
 
 
 
