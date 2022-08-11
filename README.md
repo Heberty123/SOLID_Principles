@@ -33,3 +33,9 @@ this principle prevents negative impact drastically for all class that depends o
 this principle requires object of subclass to behave is same may than object of superclass, for example, the object of the class S extends the object of the class T and use all behaviours of this object T. Thus, the Object T can be replaced by object S without breaking the application. 
 
 
+
+## Interface Segregation Principle:
+
+
+  On some occasion, We wouldn’t like to extends all behaviours that won’t be used by subclass. So, it’s best for the class to implements especif interface rather than generic interface that contain useless method. For better example, when we create interface bird and all class as toucans, hawk, owl and penguin implements that class which contain function like eat(), sleep() and fly(), but penguin doens’t fly ! it break our application, like also the liskov principle. So, we should create interface bird with function only eat() and sleep(). So other interface will be bird_that_fly  and this interface contain function fly() and extends interface bird. Like this, penguin can implements interface bird and others birds can implements interface bird_that_fly. 
+
