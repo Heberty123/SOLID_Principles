@@ -3,7 +3,7 @@ Just learning SOLID principles
 
 Hi everyone, in this post, I’d like to show you the principles of SOLID with images that I made to allow you undestood may easily about such a principles in SOLID.
 
-<img align="center" alt="Conding" width="auto" height="auto" src="https://www.bing.com/images/search?view=detailV2&ccid=VBnJzj%2f6&id=E94BE5B628140B8206500C3818A1331D8B8A7CEE&thid=OIP.VBnJzj_63kOyg32qLJax2QHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fCmr1OMJ2FN0B2%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5419c9ce3ffade43b2837daa2c96b1d9%3frik%3d7nyKix0zoRg4DA%26pid%3dImgRaw%26r%3d0&exph=500&expw=500&q=hello+gif&simid=608046298717647147&FORM=IRPRST&ck=376EC7646ABBC23D99DA931B02517031&selectedIndex=2&ajaxhist=0&ajaxserp=0">
+<img alt="Conding" src="https://www.bing.com/images/search?view=detailV2&ccid=VBnJzj%2f6&id=E94BE5B628140B8206500C3818A1331D8B8A7CEE&thid=OIP.VBnJzj_63kOyg32qLJax2QHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fCmr1OMJ2FN0B2%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5419c9ce3ffade43b2837daa2c96b1d9%3frik%3d7nyKix0zoRg4DA%26pid%3dImgRaw%26r%3d0&exph=500&expw=500&q=hello+gif&simid=608046298717647147&FORM=IRPRST&ck=376EC7646ABBC23D99DA931B02517031&selectedIndex=2&ajaxhist=0&ajaxserp=0">
 
 Here, we’ll use “class” as software entity to apply ours principles SOLID, but we also can use function, method or module.
 
@@ -20,7 +20,7 @@ different component that depend on the changed class.
 
 
 
-<img title="a title" alt="Alt text" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
+<img title="a title" alt="Alt text" align="center" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
 
 
 
