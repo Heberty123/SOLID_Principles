@@ -13,7 +13,7 @@ different component that depend on the changed class.
 
 
 
-<img title="a title" alt="Alt text" width="55%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
+<img title="a title" alt="Alt text" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
 
 
 ## Open & Closed Principle 
