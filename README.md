@@ -12,4 +12,9 @@ responsibility, and get error unexpected way which can affected other
 different component that depend on the changed class.
 
 
+<div style="text-align: center;">
 <img title="a title" alt="Alt text" width="55%" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
+</div>
+
+
+
