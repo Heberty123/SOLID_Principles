@@ -3,6 +3,8 @@ Just learning SOLID principles
 
 Hi everyone, in this post, I’d like to show you the principles of SOLID with images that I made to allow you undestood may easily about such a principles in SOLID.
 
+<img align="center" alt="Conding" width="auto" height="auto" src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif">
+
 Here, we’ll use “class” as software entity to apply ours principles SOLID, but we also can use function, method or module.
 
 
