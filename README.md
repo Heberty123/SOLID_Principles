@@ -1,6 +1,11 @@
 # SOLID_Principles
 Just learning SOLID principles
 
+Hi everyone, in this post, I’d like to show you the principles of SOLID with images that I made to allow you undestood may easily about such a principles in SOLID.
+
+Here, we’ll use “class” as software entity to apply ours principles SOLID, but we also can use function, method or module.
+
+
 
 ## Single Responsibility Principle
 
