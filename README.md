@@ -23,3 +23,13 @@ different component that depend on the changed class.
 this principle prevents negative impact drastically for all class that depends on each other class, making the software safely, robust and accepted for maintance.
 
 
+
+
+
+## Liskov Substitution Principle
+
+  “I am your enhanced version”
+
+this principle requires object of subclass to behave is same may than object of superclass, for example, the object of the class S extends the object of the class T and use all behaviours of this object T. Thus, the Object T can be replaced by object S without breaking the application. 
+
+
