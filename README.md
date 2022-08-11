@@ -43,7 +43,7 @@ this principle requires object of subclass to behave is same may than object of 
   
 ## Dependency Inversion Principle
 
-**high level modules should not depend on low level modules; both should depend on abstractions. Abstractions should not depend on details. Details should depend upon abstractions.**
+__high level modules should not depend on low level modules; both should depend on abstractions. Abstractions should not depend on details. Details should depend upon abstractions.__
 
 We wouldn’t like the our class to be coupled by instantianting other dependency into this class. So, we should inject dependecy into class by method construct, without instantiad in that class. But for to do it, we have to abstract between our high-level and low-level.
 
