@@ -12,4 +12,4 @@ responsibility, and get error unexpected way which can affected other
 different component that depend on the changed class.
 
 
-<img title="a title" alt="Alt text" src="/images/boo.svg">
+<img title="a title" alt="Alt text" src="https://github.com/Heberty123/SOLID_Principles/blob/master/SRP.png">
