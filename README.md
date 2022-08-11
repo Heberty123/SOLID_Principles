@@ -3,7 +3,7 @@ Just learning SOLID principles
 
 Hi everyone, in this post, I’d like to show you the principles of SOLID with images that I made to allow you undestood may easily about such a principles in SOLID.
 
-<img alt="Conding" src="https://www.bing.com/images/search?view=detailV2&ccid=VBnJzj%2f6&id=E94BE5B628140B8206500C3818A1331D8B8A7CEE&thid=OIP.VBnJzj_63kOyg32qLJax2QHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fCmr1OMJ2FN0B2%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5419c9ce3ffade43b2837daa2c96b1d9%3frik%3d7nyKix0zoRg4DA%26pid%3dImgRaw%26r%3d0&exph=500&expw=500&q=hello+gif&simid=608046298717647147&FORM=IRPRST&ck=376EC7646ABBC23D99DA931B02517031&selectedIndex=2&ajaxhist=0&ajaxserp=0">
+<img alt="Conding" src="https://www.bing.com/images/search?view=detailV2&ccid=w7EGekd6&id=2410C98C2B6464892D73A64D0725D0E136316B82&thid=OIP.w7EGekd6r1ZUMlL_1bYOuQHaHf&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F55%2F85%2F21%2F558521d1b308796d13feedcf603927dd.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c3b1067a477aaf56543252ffd5b60eb9%3Frik%3DgmsxNuHQJQdNpg%26pid%3DImgRaw%26r%3D0&exph=683&expw=675&q=hello+gif&form=IRPRST&ck=774A1BA46129CAE905B18E44FCD5F780&selectedindex=2&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_VBnJzj%252F6*cp_376EC7646ABBC23D99DA931B02517031*mid_E94BE5B628140B8206500C3818A1331D8B8A7CEE*simid_608046298717647147*thid_OIP.VBnJzj!_63kOyg32qLJax2QHaHa&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0">
 
 Here, we’ll use “class” as software entity to apply ours principles SOLID, but we also can use function, method or module.
 
