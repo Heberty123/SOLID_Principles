@@ -63,5 +63,4 @@ low-level: is (dependency) an tool that can be used by class.
 Interface: abstract our class and tools.
 
 Details of tools: especific tool can implements that interface for make your different details.
-Fire
 
