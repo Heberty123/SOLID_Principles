@@ -24,7 +24,7 @@ different component that depend on the changed class.
 
 
 
-<img title="a title" alt="Alt text" align="center" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/SRP.png">
+<img title="a title" alt="Alt text" align="center" width="100%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/SRP.png">
 
 
 
