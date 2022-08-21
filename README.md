@@ -38,6 +38,9 @@ this principle prevents negative impact drastically for all class that depends o
 
 
 
+<img title="a title" alt="Alt text" align="center" width="65%" style="display: block; margin: 0 auto" src="
+https://github.com/Heberty123/SOLID_Principles/blob/master/Images/open%26closed.png">
+
 
 
 ## Liskov Substitution Principle
