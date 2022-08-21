@@ -9,6 +9,10 @@ Here, we’ll use “class” as software entity to apply ours principles SOLID,
 
 
 
+<img title="a title" alt="Alt text" align="center" width="65%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/Wallpaper/wall-2.webp">
+
+
+
 ## Single Responsibility Principle
 
   it is a separaty of all “responsibilities” in the
