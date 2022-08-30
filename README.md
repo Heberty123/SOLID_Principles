@@ -37,7 +37,7 @@ different component that depend on the changed class.
 this principle prevents negative impact drastically for all class that depends on each other class, making the software safely, robust and accepted for maintance.
 
 
-<img title="a title" alt="Alt text" align="center" width="100%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/open%26closed.png">
+<img title="a title" alt="Alt text" align="center" width="100%" style="display: block; margin: 0 auto" src="https://github.com/Heberty123/SOLID_Principles/blob/master/Images/Open%26Closed%20(2).png">
 
 
 
